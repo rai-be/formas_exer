@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectStateService">
+    <option name="data">
+      <map>
+        <entry key="raiani.guimaraes@zup.com.br">
+          <value>
+            <ProjectStateData>
+              <option name="conversationId" value="01JDJ76S4D0ZXJCBRZKDMQWYC4" />
+              <option name="indexedFiles">
+                <map>
+                  <entry key="$PROJECT_DIR$/pom.xml" value="7882" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/App.java" value="0" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/Calculo.java" value="9774" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/Circulo.java" value="6520" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/FormaGeometrica.java" value="6120" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/Hexagono.java" value="6396" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/Quadrado.java" value="5559" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/Retangulo.java" value="5641" />
+                  <entry key="$PROJECT_DIR$/src/main/java/org/example/Triangulo.java" value="6242" />
+                  <entry key="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" value="0" />
+                  <entry key="$PROJECT_DIR$/src/test/java/org/example/FormaGeometricaTest.java" value="8955" />
+                </map>
+              </option>
+              <option name="projectId" value="01JDJ509GWDPVXN2WWC75AV4FR" />
+            </ProjectStateData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
